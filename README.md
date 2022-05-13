@@ -18,9 +18,15 @@ I'm interested in playing video games, and my mains are music games and racing g
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: **I also make music!** [![Find me on SoundCloud](https://img.shields.io/static/v1?label=Find%20me%20on&message=SoundCloud&color=FF3300&style=for-the-badge&logo=soundcloud)](https://www.soundcloud.com/collapsedplug) to hear some!
 
+(Most of my codebase I tinker with often (and by that I mean ones for Twin Horizons) are in GitLab, so I'm not too active on GitHub.)  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=clpsplug&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clpsplug&layout=compact&exclude_repo=CBlocks,CCADXKawazLogo" />
+</a>
 
-[![ClpsPLUG's GitHub stats](https://github-readme-stats.vercel.app/api?username=clpsplug&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
-(Most of my codebase I tinker with often (and by that I mean ones for Twin Horizons) are in GitLab, so I'm not too active on GitHub.)
+
 
 <!--
 **Clpsplug/clpsplug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
