@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 <p align="center">
+<img src="https://s2.svgbox.net/files.svg?ic=c3&color=000" width="32" height="32">
+<img src="https://s2.svgbox.net/files.svg?ic=cpp3&color=000" width="32" height="32">
 <img src="https://s2.svgbox.net/files.svg?ic=csharp2&color=000" width="32" height="32">
 <img src="https://s2.svgbox.net/files.svg?ic=php&color=000" width="32" height="32">
 <img src="https://s2.svgbox.net/files.svg?ic=js&color=000" width="32" height="32">
@@ -37,6 +39,7 @@ I also *make* games! Check out my 'floor-and-ceiling' music game, **[Twin Horizo
 - 🌱 I’m currently learning
   - How to make a large-scale Unity game
   - How to build websites from scratch using Jekyll
+  - Full-contact C coding!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: **I also make music!** [![Find me on SoundCloud](https://img.shields.io/static/v1?label=Find%20me%20on&message=SoundCloud&color=FF3300&style=for-the-badge&logo=soundcloud)](https://www.soundcloud.com/collapsedplug) to hear some!
 - 🌐 Spoken languages available for me
