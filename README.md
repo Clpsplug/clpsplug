@@ -48,10 +48,10 @@ I also *make* games! Check out my 'floor-and-ceiling' music game, **[Twin Horizo
 
 (Most of my codebase I tinker with often (and by that I mean ones for Twin Horizons) are in GitLab. You will still find my Unity plugins here, though!)  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://mikan.clpsplug.com/api?username=clpsplug&count_private=true&show_icons=true" />
+  <img align="left" src="https://mikan.clpsplug.com/api?username=clpsplug&count_private=true&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://mikan.clpsplug.com/api/top-langs/?username=clpsplug&layout=compact&exclude_repo=CBlocks,CCADXKawazLogo" />
+  <img align="left" src="https://mikan.clpsplug.com/api/top-langs/?username=clpsplug&layout=compact&exclude_repo=CBlocks,CCADXKawazLogo&theme=dark" />
 </a>
 
 
